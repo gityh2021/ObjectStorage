@@ -22,7 +22,6 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	w.WriteHeader(http.StatusMethodNotAllowed)
-	return
 }
 
 func Get(w http.ResponseWriter, r *http.Request) {
