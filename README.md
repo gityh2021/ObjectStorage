@@ -8,6 +8,7 @@
 
 ### 2、代码
 
-​	官方实现版本：
+​	官方实现版本：https://github.com/stuarthu/go-implement-your-object-storage.git
 
-​	个人实现版本：
+​	个人学习版本：https://github.com/gityh2021/ObjectStorage.git
+
